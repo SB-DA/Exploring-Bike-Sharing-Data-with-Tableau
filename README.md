@@ -9,7 +9,7 @@ https://public.tableau.com/profile/shban#!/
 
 ## Results
 
-Visualization of Data for Aug, 2019 - NewYork Citi Bike
+### Visualization of Data for Aug, 2019 - NewYork Citi Bike
 
 ![image](https://user-images.githubusercontent.com/78935551/120944636-854a4b00-c703-11eb-9d88-4cf12e371a1d.png)
 
