@@ -41,4 +41,7 @@ Visualization of Data for Aug, 2019 - NewYork Citi Bike
 - There was also a trend of using the bikes by mostly male users in the mornings between 7am and 9am and in the evenings between 5pm and 7pm. This could be local residents commuting to work.
 - Viewing the type of users by day of the week. The chart clearly shows that the majority of male users are subscribers.
 
-## Recommendations 
+## Suggestion
+- The city of New York is a major tourist attraction and a business hub. It would be useful to examine what type of crowd is attracted to Des Moines and if locals are open to the idea of commuting by bike.
+- The weather is also important. It would be great to analyze data from different months to see how Citi Bike is used.
+- Infrastructure should be taken into account as well. As Des Moines is a small city compared with New York, it would be great to collect data and see if it has dedicated bike lanes, and if the streets are bike-friendly.
