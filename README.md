@@ -4,6 +4,9 @@ Created worksheets, dashboards and stories from New York city bike-sharing data
 ## Overview
 Having taken a bike tour of New York City and explored the city on two wheels, we came up with an idea to do something similar in Des Moines. The data we obtained can be used to predict whether the bike-share company idea will work in Des Moines.  Kate also got a potential investor who was interested in investing. Investors had to be convinced that a bike-sharing program in Des Moines is a solid business plan. Our proposal was solidified by a bike trip analysis required by one of our key stakeholders.
 
+LINK TO DASHBOARD
+https://public.tableau.com/profile/shban#!/
+
 ## Results
 
 Visualization of Data for Aug, 2019 - NewYork Citi Bike
@@ -30,9 +33,7 @@ Visualization of Data for Aug, 2019 - NewYork Citi Bike
 ![image](https://user-images.githubusercontent.com/78935551/120945467-1969e180-c707-11eb-858a-5eb5303da82d.png)
 
 
-
-###
-![image](https://user-images.githubusercontent.com/78935551/120945016-6947a900-c705-11eb-8105-c5900430626e.png)
+## Summary 
 
 
 
